@@ -6,7 +6,7 @@
   <link href="https://github.com/taoge183/taoge183.github.io.git/atom.xml" rel="self"/>
   
   <link href="https://github.com/taoge183/taoge183.github.io.git/"/>
-  <updated>2021-02-12T13:04:17.840Z</updated>
+  <updated>2021-02-12T14:22:15.916Z</updated>
   <id>https://github.com/taoge183/taoge183.github.io.git/</id>
   
   <author>
@@ -17,20 +17,18 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>ceshi</title>
-    <link href="https://github.com/taoge183/taoge183.github.io.git/2021/02/12/ceshi/"/>
-    <id>https://github.com/taoge183/taoge183.github.io.git/2021/02/12/ceshi/</id>
-    <published>2021-02-12T12:55:12.000Z</published>
-    <updated>2021-02-12T13:04:17.840Z</updated>
+    <title>我的第一篇博客</title>
+    <link href="https://github.com/taoge183/taoge183.github.io.git/2021/02/12/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://github.com/taoge183/taoge183.github.io.git/2021/02/12/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
+    <published>2021-02-12T14:06:37.000Z</published>
+    <updated>2021-02-12T14:22:15.916Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="测试文章"><a href="#测试文章" class="headerlink" title="测试文章"></a>测试文章</h1><p>测试博客框架是否需要一篇文章才能显示</p><p>还是需要原先HelloWorld文章</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h1><p>捣鼓了好几天，终于有了自己的博客。功能不是很完善，但是勉强还能看吧。感谢hexo上大佬的开源框架，以及b站上的大佬视频。</p><p>写博客的目的还是以学习为主。主要还是记录自己的学习心得，还有一些笔记和知识点。记录下来一是加强自己的记忆对知识点的二次记忆，二是当作笔记可以随时翻阅。当然分享出来也希望能和小伙伴们一起学习，有什么不足的地方也欢迎大家指正。</p><p>在过去的时间里也有学了一些东西，但是到了真正开始写博客的时候却有一种无从下笔的感觉。可能是之前的学习方法不太对，也可能是忘了一些。希望通过写博客可以将过去学过的知识捡回来一些，同时提高现在的学习效率。</p><p>文章也会不定时更新。最后祝大家新年快乐，心想事成，牛年大吉。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;测试文章&quot;&gt;&lt;a href=&quot;#测试文章&quot; class=&quot;headerlink&quot; title=&quot;测试文章&quot;&gt;&lt;/a&gt;测试文章&lt;/h1&gt;&lt;p&gt;测试博客框架是否需要一篇文章才能显示&lt;/p&gt;
-&lt;p&gt;还是需要原先HelloWorld文章&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;h1 id=&quot;写在前面&quot;&gt;&lt;a href=&quot;#写在前面&quot; class=&quot;headerlink&quot; title=&quot;写在前面&quot;&gt;&lt;/a&gt;写在前面&lt;/h1&gt;&lt;p&gt;捣鼓了好几天，终于有了自己的博客。功能不是很完善，但是勉强还能看吧。感谢hexo上大佬的开源框架，以及b站上的大佬视频。&lt;/</summary>
       
     
     
