@@ -3,11 +3,11 @@
   <title>Lint</title>
   
   <subtitle>Just Study</subtitle>
-  <link href="https://github.com/taoge183/taoge183.github.io.git/atom.xml" rel="self"/>
+  <link href="https://github.com/taoge183/atom.xml" rel="self"/>
   
-  <link href="https://github.com/taoge183/taoge183.github.io.git/"/>
+  <link href="https://github.com/taoge183/"/>
   <updated>2021-02-16T14:41:29.194Z</updated>
-  <id>https://github.com/taoge183/taoge183.github.io.git/</id>
+  <id>https://github.com/taoge183/</id>
   
   <author>
     <name>Lint</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>浅谈Spring ioc</title>
-    <link href="https://github.com/taoge183/taoge183.github.io.git/2021/02/14/%E6%B5%85%E8%B0%88Spring-ioc/"/>
-    <id>https://github.com/taoge183/taoge183.github.io.git/2021/02/14/%E6%B5%85%E8%B0%88Spring-ioc/</id>
+    <link href="https://github.com/taoge183/2021/02/14/%E6%B5%85%E8%B0%88Spring-ioc/"/>
+    <id>https://github.com/taoge183/2021/02/14/%E6%B5%85%E8%B0%88Spring-ioc/</id>
     <published>2021-02-14T15:38:33.000Z</published>
     <updated>2021-02-16T14:41:29.194Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>我的第一篇博客</title>
-    <link href="https://github.com/taoge183/taoge183.github.io.git/2021/02/12/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    <id>https://github.com/taoge183/taoge183.github.io.git/2021/02/12/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
+    <link href="https://github.com/taoge183/2021/02/12/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://github.com/taoge183/2021/02/12/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
     <published>2021-02-12T14:06:37.000Z</published>
     <updated>2021-02-12T14:27:29.146Z</updated>
     
